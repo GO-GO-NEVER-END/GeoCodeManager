@@ -22,4 +22,7 @@ FileManager은 설정한 경로에 있는 CSV 파일을 읽은 후 위도, 경�
 - FileManager의 역할 분리
 - Reverse Geocode 기능 구현
 
+### PS
+- 코드를 실행하기 위해서는 Private.kt 파일이 필요한데, Naver Map APi에 요청할 때 헤더에 담아야할 Client 관련 값들입니다.
+  - Private.kt 파일의 코드는 노션 작업 기록에 있습니다! 
 
